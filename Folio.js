@@ -15,7 +15,7 @@
 
 const typedTextSpan = document.querySelector(".itype");
 const cursorSpan = document.querySelector(".icursor");
-const textArray = ["Ekeke Dorlee Redeemer"];
+const textArray = ["Ekeke Dorlee R."];
 const typingDelay = 200;
 const erasingDelay = 150;
 const newTextDelay = 2000; 
